@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.akodi" name="Akodi Repo" version="1.0.0" provider-name="Akodi">
+    <extension point="xbmc.addon.repository" name="Palantir Repo">
+        <info>https://raw.githubusercontent.com/Andoniar78/repositori.akodi/main/repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Andoniar78/repositori.akodi/main/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Andoniar78/repositori.akodi/main/repo//</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio para Kodi</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
